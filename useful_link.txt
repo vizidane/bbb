@@ -1,0 +1,2 @@
+forum:
+https://cospandesign.github.io/linux,am335x/2018/10/16/am335x-lcd-panel.html
